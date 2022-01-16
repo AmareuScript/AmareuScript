@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @AmareuScript
+- 👋 Hi, I'm @Amareus
 - 👀 I’m interested in Web design and web developing
 - 🌱 I’m currently learning HTML - CSS - JAVASCRIPT
 
